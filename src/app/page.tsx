@@ -80,7 +80,7 @@ export default function LandingPage() {
         },
       ]}
       buttonAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg?_wi=1"
       imageAlt="Cozy diner breakfast table with pancakes, coffee, and sunlight"
       showDimOverlay={true}
     />
@@ -162,7 +162,7 @@ export default function LandingPage() {
           price: "$4.99/bowl",
           rating: 5,
           reviewCount: "90+",
-          imageSrc: "http://img.b2bpic.net/free-photo/ramen-noodles_74190-1945.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/ramen-noodles_74190-1945.jpg?_wi=1",
           imageAlt: "Warm bowl of chicken noodle soup with vegetables",
         },
         {
@@ -172,7 +172,7 @@ export default function LandingPage() {
           price: "$5.50/bowl",
           rating: 5,
           reviewCount: "75+",
-          imageSrc: "http://img.b2bpic.net/free-photo/ramen-noodles_74190-1945.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/ramen-noodles_74190-1945.jpg?_wi=2",
           imageAlt: "Hearty bowl of stuffed pepper soup",
         },
       ]}
@@ -338,7 +338,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg?_wi=2"
       imageAlt="Cozy diner interior at What's Cook'n"
       columns={[
         {
