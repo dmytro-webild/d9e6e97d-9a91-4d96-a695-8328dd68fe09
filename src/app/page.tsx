@@ -62,7 +62,7 @@ export default function LandingPage() {
           text: "View Menu",          href: "#menu"},
       ]}
       buttonAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg?_wi=1"
       imageAlt="Cozy diner breakfast table with pancakes, coffee, and sunlight"
       showDimOverlay={true}
     />
@@ -107,10 +107,10 @@ export default function LandingPage() {
           reviewCount: "150+",          imageSrc: "http://img.b2bpic.net/free-photo/cottagecore-food-inspiration-still-life_23-2150152985.jpg",          imageAlt: "Slice of homemade cherry pie with lattice crust"},
         {
           id: "chicken-noodle-soup",          brand: "Soup",          name: "Chicken Noodle Soup",          price: "$4.99/bowl",          rating: 5,
-          reviewCount: "90+",          imageSrc: "http://img.b2bpic.net/free-photo/ramen-noodles_74190-1945.jpg",          imageAlt: "Warm bowl of chicken noodle soup with vegetables"},
+          reviewCount: "90+",          imageSrc: "http://img.b2bpic.net/free-photo/ramen-noodles_74190-1945.jpg?_wi=1",          imageAlt: "Warm bowl of chicken noodle soup with vegetables"},
         {
           id: "stuffed-pepper-soup",          brand: "Soup",          name: "Hearty Stuffed Pepper Soup",          price: "$5.50/bowl",          rating: 5,
-          reviewCount: "75+",          imageSrc: "http://img.b2bpic.net/free-photo/ramen-noodles_74190-1945.jpg",          imageAlt: "Hearty bowl of stuffed pepper soup"},
+          reviewCount: "75+",          imageSrc: "http://img.b2bpic.net/free-photo/ramen-noodles_74190-1945.jpg?_wi=2",          imageAlt: "Hearty bowl of stuffed pepper soup"},
       ]}
       title="Our Delicious Menu"
       description="Explore our full menu of classic diner fare, from hearty breakfasts to comforting lunch and dinner options. Made fresh daily with the finest ingredients."
@@ -143,25 +143,25 @@ export default function LandingPage() {
       useInvertedBackground={true}
       metrics={[
         {
-          id: "mon",          value: "Closed",          title: "Monday",          description: "The diner is closed on Monday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg",          imageAlt: "Diner table with closed sign for Monday."
+          id: "mon",          value: "Closed",          title: "Monday",          description: "The diner is closed on Monday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg?_wi=2",          imageAlt: "Diner table with closed sign for Monday."
         },
         {
-          id: "tue",          value: "Closed",          title: "Tuesday",          description: "The diner is closed on Tuesday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg",          imageAlt: "Diner table with closed sign for Tuesday."
+          id: "tue",          value: "Closed",          title: "Tuesday",          description: "The diner is closed on Tuesday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg?_wi=3",          imageAlt: "Diner table with closed sign for Tuesday."
         },
         {
-          id: "wed",          value: "8:00 AM – 2:00 PM",          title: "Wednesday",          description: "Open from 8:00 AM to 2:00 PM on Wednesday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg",          imageAlt: "Diner table with food for Wednesday hours."
+          id: "wed",          value: "8:00 AM – 2:00 PM",          title: "Wednesday",          description: "Open from 8:00 AM to 2:00 PM on Wednesday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg?_wi=4",          imageAlt: "Diner table with food for Wednesday hours."
         },
         {
-          id: "thu",          value: "8:00 AM – 2:00 PM",          title: "Thursday",          description: "Open from 8:00 AM to 2:00 PM on Thursday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg",          imageAlt: "Diner table with food for Thursday hours."
+          id: "thu",          value: "8:00 AM – 2:00 PM",          title: "Thursday",          description: "Open from 8:00 AM to 2:00 PM on Thursday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg?_wi=5",          imageAlt: "Diner table with food for Thursday hours."
         },
         {
-          id: "fri",          value: "8:00 AM – 6:00 PM",          title: "Friday",          description: "Open from 8:00 AM to 6:00 PM on Friday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg",          imageAlt: "Diner table with food for Friday extended hours."
+          id: "fri",          value: "8:00 AM – 6:00 PM",          title: "Friday",          description: "Open from 8:00 AM to 6:00 PM on Friday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg?_wi=6",          imageAlt: "Diner table with food for Friday extended hours."
         },
         {
-          id: "sat",          value: "8:00 AM – 2:00 PM",          title: "Saturday",          description: "Open from 8:00 AM to 2:00 PM on Saturday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg",          imageAlt: "Diner table with food for Saturday hours."
+          id: "sat",          value: "8:00 AM – 2:00 PM",          title: "Saturday",          description: "Open from 8:00 AM to 2:00 PM on Saturday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg?_wi=7",          imageAlt: "Diner table with food for Saturday hours."
         },
         {
-          id: "sun",          value: "8:00 AM – 2:00 PM",          title: "Sunday",          description: "Open from 8:00 AM to 2:00 PM on Sunday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg",          imageAlt: "Diner table with food for Sunday hours."
+          id: "sun",          value: "8:00 AM – 2:00 PM",          title: "Sunday",          description: "Open from 8:00 AM to 2:00 PM on Sunday.",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg?_wi=8",          imageAlt: "Diner table with food for Sunday hours."
         },
       ]}
       title="Our Opening Hours"
@@ -219,7 +219,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/top-view-food-banquet_23-2149893493.jpg?_wi=9"
       imageAlt="Cozy diner interior at What's Cook'n"
       columns={[
         {
